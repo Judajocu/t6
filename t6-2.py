@@ -33,7 +33,9 @@ def main():
     jobs.close()
 
     maping_parte1(lista)
+    print "Tuplas"
     print lista_map
+    print "Resultado"
     print (result)
 
 # LO MISMO PERO CON UNA DIVISIÓN :v

@@ -31,7 +31,9 @@ def main():
     jobs.close() # Aquí se cierra el archivo
 
     maping_parte1(lista) # Aquí se llama a la función con la que se hace las operaciones
+    print "Tuplas"
     print lista_map # Imprimir lista de tupla con la que se trabajó :v
+    print "Resultado"
     print (result) # # Imprimir parte 1 :v
 
 
